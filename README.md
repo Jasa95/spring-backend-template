@@ -13,6 +13,9 @@ Currently artifact id is "spring-backend-template"
 
 Change other details in pom.xml as needed.
 
+All Example code can be used to see how to set up simple CRUD operations with Spring Boot.
+Remember to delete them if you don't need them or use them as a reference.
+
 ### Dependencies
 - Lombok
 - Spring Boot DevTools
